@@ -2,7 +2,7 @@
     "name": "theme-a",
     "displayName": "A",
     "description": "Syntax highlighting with colored backgrounds. Inspired by Flatwhite for Atom.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "esz",
     "engines": {
         "vscode": "^1.5.0"
@@ -18,5 +18,13 @@
                 "path": "./A.tmTheme"
             }
         ]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/flagello/A.tmTheme/issues"
+    },
+    "homepage": "https://github.com/flagello/A.tmTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flagello/A.tmTheme"
+    }      
 }
