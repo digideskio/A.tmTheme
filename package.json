@@ -1,0 +1,22 @@
+{
+    "name": "theme-a",
+    "displayName": "A",
+    "description": "Syntax highlighting with colored backgrounds. Inspired by Flatwhite for Atom.",
+    "version": "0.0.1",
+    "publisher": "esz",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "A",
+                "uiTheme": "vs",
+                "path": "./A.tmTheme"
+            }
+        ]
+    }
+}
