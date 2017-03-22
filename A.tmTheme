@@ -175,9 +175,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword Control</string>
+			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword.control</string>
+			<string>keyword.control, keyword, keyword.operator.new</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -401,7 +401,7 @@
 			<key>name</key>
 			<string>Keyword Operator</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>keyword.operator, keyword.operator.expression</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
