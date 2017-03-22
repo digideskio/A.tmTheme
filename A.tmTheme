@@ -223,19 +223,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JavaScript string interpolation ${}</string>
-			<key>scope</key>
-			<string>punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9c739c</string>
-				<key>background</key>
-				<string>#f1ddf08B</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Inherited class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
@@ -306,15 +293,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function utils</string>
+			<string>Function</string>
 			<key>scope</key>
-			<string>support.function, support.constant.handlebars</string>
+			<string>support.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#957F5F</string>
 				<key>background</key>
 				<string>#F7E0C38C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, support.constant.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#957F5F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript string interpolation ${}</string>
+			<key>scope</key>
+			<string>punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#957F5F</string>
 			</dict>
 		</dict>
 		<dict>
