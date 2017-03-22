@@ -116,7 +116,7 @@
 			<key>name</key>
 			<string>CSS property value</string>
 			<key>scope</key>
-			<string>support.constant.property-value, support.constant.font-name, support.constant.media-type, support.constant.media, constant.other.color.rgb-value, constant.other.rgb-value, support.constant.color</string>
+			<string>support.constant.property-value, support.constant.font-name, support.constant.media-type, support.constant.media, constant.other.color.rgb-value, constant.other.rgb-value, support.constant.color, support.type.vendored.property-name, support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -141,6 +141,17 @@
 			<string>Variable and parameter name</string>
 			<key>scope</key>
 			<string>variable, meta.definition.variable.name, support.variable, variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DADADA1A</string>
+				<key>foreground</key>
+				<string>#343a40</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>variable.css, variable.scss, variable.other.less</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
