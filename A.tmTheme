@@ -96,6 +96,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS property value</string>
+			<key>scope</key>
+			<string>support.constant.property-value, support.constant.font-name, support.constant.media-type, support.constant.media, constant.other.color.rgb-value, constant.other.rgb-value, support.constant.color</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5f8c7d</string>
+				<key>background</key>
+				<string>#d2ebe38B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Variable and parameter name</string>
 			<key>scope</key>
 			<string>variable, meta.definition.variable.name, support.variable, variable.parameter</string>
