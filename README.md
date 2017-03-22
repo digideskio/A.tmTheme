@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshot.png" width="797.5" /></p>
+<p align="center"><img src="./screenshot.png" width="797.5" /></p>
 <br><br>
 
 <p align="center"><code>ext install theme-a</code></p>
