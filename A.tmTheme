@@ -410,6 +410,19 @@
 				<string>#73809F</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coloring of the Java import and package identifiers</string>
+			<key>scope</key>
+			<string>storage.modifier.import.java, storage.modifier.package.java</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DDE4F221</string>
+				<key>foreground</key>
+				<string>#73809F</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
