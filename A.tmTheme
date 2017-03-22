@@ -109,6 +109,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Object keys, TS grammar specific</string>
+			<key>scope</key>
+			<string>meta.object-literal.key, meta.object-literal.key entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DADADA1A</string>
+				<key>foreground</key>
+				<string>#343a40</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Keyword Control</string>
 			<key>scope</key>
 			<string>keyword.control</string>
