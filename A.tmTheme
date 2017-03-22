@@ -96,13 +96,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
+			<string>Variable and parameter name</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable, meta.definition.variable.name, support.variable, variable.parameter</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#E0E9FF00</string>
+				<string>#DADADA1A</string>
 				<key>foreground</key>
 				<string>#343a40</string>
 			</dict>
@@ -140,17 +140,6 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function argument</string>
-			<key>scope</key>
-			<string>variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#DADADA1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -229,15 +218,6 @@
 				<string>#957f5f</string>
 				<key>background</key>
 				<string>#f7e0c38B</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library variable</string>
-			<key>scope</key>
-			<string>support.other.variable</string>
-			<key>settings</key>
-			<dict>
 			</dict>
 		</dict>
 		<dict>
