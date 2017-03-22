@@ -223,15 +223,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Inherited class</string>
-			<key>scope</key>
-			<string>entity.other.inherited-class</string>
-			<key>settings</key>
-			<dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Tag name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
