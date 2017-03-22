@@ -203,7 +203,7 @@
 			<key>name</key>
 			<string>Selector</string>
 			<key>scope</key>
-			<string>entity.name.selector</string>
+			<string>entity.name.selector, meta.selector</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
