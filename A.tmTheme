@@ -32,6 +32,15 @@
 			</dict>
 		</dict>
 		<dict>
+			<key>scope</key>
+			<string>strong</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
