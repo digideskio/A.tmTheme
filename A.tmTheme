@@ -201,7 +201,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Selecor</string>
+			<string>Selector</string>
 			<key>scope</key>
 			<string>entity.name.selector</string>
 			<key>settings</key>
