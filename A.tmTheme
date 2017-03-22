@@ -197,9 +197,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library function</string>
+			<string>Function utils</string>
 			<key>scope</key>
-			<string>support.function</string>
+			<string>support.function, support.constant.handlebars</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
