@@ -1,7 +1,7 @@
 {
     "name": "theme-a",
     "displayName": "A",
-    "description": "Syntax highlighting with colored backgrounds. Inspired by Flatwhite for Atom.",
+    "description": "Soft syntax highlighting with colored backgrounds. Inspired by Flatwhite for Atom.",
     "version": "1.0.0",
     "publisher": "esz",
     "engines": {
