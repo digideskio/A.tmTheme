@@ -103,6 +103,8 @@
 			<dict>
 				<key>background</key>
 				<string>#E0E9FF00</string>
+				<key>foreground</key>
+				<string>#343a40</string>
 			</dict>
 		</dict>
 		<dict>
