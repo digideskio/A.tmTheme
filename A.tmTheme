@@ -160,15 +160,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function name</string>
-			<key>scope</key>
-			<string>entity.name.function</string>
-			<key>settings</key>
-			<dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Function argument</string>
 			<key>scope</key>
 			<string>variable.parameter</string>
