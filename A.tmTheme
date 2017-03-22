@@ -328,6 +328,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP metatag</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.metatag.php, punctuation.section.embedded.end.metatag.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#957F5F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library constant</string>
 			<key>scope</key>
 			<string>support.constant</string>
