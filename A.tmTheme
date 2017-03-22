@@ -218,6 +218,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Types declaration and references, TS grammar specific</string>
+			<key>scope</key>
+			<string>meta.return.type, meta.type.cast.expr, meta.type.new.expr, support.constant.math, support.constant.dom, support.constant.json, entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#957f5f</string>
+				<key>background</key>
+				<string>#f7e0c38B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library variable</string>
 			<key>scope</key>
 			<string>support.other.variable</string>
