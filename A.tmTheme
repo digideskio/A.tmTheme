@@ -308,33 +308,13 @@
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, support.constant.handlebars</string>
+			<string>punctuation, punctuation.definition.string, punctuation.definition.string.template, punctuation.section.embedded, punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, support.constant.handlebars, punctuation.definition.block.js, punctuation.definition.tag, punctuation.separator.comma.js, punctuation.terminator.statement.js, punctuation.accessor.js, punctuation.definition.group.regexp, punctuation.definition.group.capture.regexp, punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, punctuation.separator.parameter.js, punctuation.separator.key-value.js, punctuation.comma, punctuation.separator, punctuation.separator.parameter, punctuation.separator.key-value, punctuation.definition.string.begin.js, punctuation.definition.string.end.js, punctuation.definition.tag.directive.js, punctuation.definition.entity.js, punctuation.definition.tag.begin.js, punctuation.definition.tag.end.js, punctuation.section.embedded.begin.js, punctuation.section.embedded.end.js, punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts, punctuation.section.embedded.begin.metatag.php, punctuation.section.embedded.end.metatag.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#957F5F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JavaScript string interpolation ${}</string>
-			<key>scope</key>
-			<string>punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#957F5F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP metatag</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded.begin.metatag.php, punctuation.section.embedded.end.metatag.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#957F5F</string>
+				<key>background</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
