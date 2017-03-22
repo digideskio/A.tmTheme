@@ -214,6 +214,17 @@
 		</dict>
 		<dict>
 			<key>scope</key>
+			<string>entity.other.attribute-name.class.css, entity.other.attribute-name.class.mixin.css, entity.other.attribute-name.id.css, entity.other.attribute-name.parent-selector.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css, source.css.less entity.other.attribute-name.id, entity.other.attribute-name.attribute.scss, entity.other.attribute-name.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9c739c</string>
+				<key>background</key>
+				<string>#f1ddf08B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
 			<string>entity.regexp</string>
 			<key>settings</key>
 			<dict>
