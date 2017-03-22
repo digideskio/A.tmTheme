@@ -15,8 +15,6 @@
 				<string>#181818</string>
 				<key>foreground</key>
 				<string>#181818E6</string>
-				<key>invisibles</key>
-				<string>#1818180D</string>
 				<key>lineHighlight</key>
 				<string>#A4A4A40D</string>
 				<key>selection</key>
