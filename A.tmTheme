@@ -101,6 +101,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>this.self</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5f8c7d</string>
+				<key>background</key>
+				<string>#d2ebe38B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
 			<string>constant.character, constant.other</string>
