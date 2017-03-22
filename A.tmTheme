@@ -201,6 +201,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JavaScript string interpolation ${}</string>
+			<key>scope</key>
+			<string>punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9c739c</string>
+				<key>background</key>
+				<string>#f1ddf08B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Inherited class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
