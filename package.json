@@ -28,5 +28,8 @@
         "url": "https://github.com/flagello/A.tmTheme"
     },
     "icon": "icon.png",
-    "galleryBanner.color": "#FFF"
+    "galleryBanner": {
+        "color": "#FFF",
+        "theme": "light"
+    }
 }
