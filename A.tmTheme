@@ -247,11 +247,11 @@
 		</dict>
 		<dict>
 			<key>scope</key>
-			<string>entity.regexp</string>
+			<string>constant.regexp, string.regexp</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9c739c</string>
+				<string>#6B4C6B</string>
 				<key>background</key>
 				<string>#f1ddf08B</string>
 			</dict>
