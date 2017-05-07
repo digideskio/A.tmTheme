@@ -1,6 +1,6 @@
 {
   "name": "A",
-  "settings": [
+  "tokenColors": [
     {
       "settings": {
         "background": "#FFFFFF",
