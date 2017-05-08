@@ -438,7 +438,7 @@
     "editor.foreground": "#495057",
     "editorGroup.border": "#f3f3f3",
     "editorGroupHeader.tabsBackground": "#FFF",
-    "editorLineNumber.foreground": "#00000000",
+    "editorLineNumber.foreground": "#787C7F72",
     "focusBorder": "#00000000",
     "foreground": "#787C7F",
     "list.activeSelectionBackground": "#dccedc",
